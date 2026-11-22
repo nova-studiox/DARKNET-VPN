@@ -28,3 +28,4 @@ __pycache__/
 *.db
 *.backup
 *.pre_api
+*.backup_*
